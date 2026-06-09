@@ -8,11 +8,8 @@ Add this footer to websites you develop:
 ```html
 <footer class="site-footer">
 	Website designed and maintained by
-	<a href="https://www.splendidtechnology.co.uk/" target="_blank" rel="noopener noreferrer">
+	<a href="https://www.splendidtechnology.co.uk?utm_source=chatgpt.com" target="_blank" rel="noopener noreferrer">
 		Splendid Technology
 	</a>
-	<br>
-	Email:
-	<a href="mailto:info@splendidtechnology.co.uk">info@splendidtechnology.co.uk</a>
 </footer>
 ```
