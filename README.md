@@ -11,5 +11,8 @@ Add this footer to websites you develop:
 	<a href="https://www.splendidtechnology.co.uk/" target="_blank" rel="noopener noreferrer">
 		Splendid Technology
 	</a>
+	<br>
+	Email:
+	<a href="mailto:info@splendidtechnology.co.uk">info@splendidtechnology.co.uk</a>
 </footer>
 ```
